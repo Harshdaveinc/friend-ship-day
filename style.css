@@ -6,6 +6,10 @@ body {
   overflow: none;
 }
 
+#music {
+  visibility: hidden;
+}
+
 #foot {
   font-size: 30px;
   text-align: center;
