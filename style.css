@@ -450,7 +450,7 @@ body {
 
 @media screen and (min-width: 53em) {
   #foot {
-    font-size: 3rem;
+    font-size: 30px;
     top: 1300px;
   }
 }
